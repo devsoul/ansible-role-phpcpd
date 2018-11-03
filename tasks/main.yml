@@ -1,0 +1,8 @@
+---
+- name: Install PHP Copy/Paste Detector.
+  become: yes
+  get_url:
+    url: https://phar.phpunit.de/phpcpd.phar
+    dest: /usr/local/bin/phpcpd
+    mode: 0755
+    force: yes
