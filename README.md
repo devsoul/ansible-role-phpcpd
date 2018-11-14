@@ -1,5 +1,6 @@
 PHP Copy/Paste Detector (CPD) Ansible role
 =========
+[![Build Status](https://travis-ci.org/devsoul/ansible-role-phpcpd.svg?branch=master)](https://travis-ci.org/devsoul/ansible-role-phpcpd)
 
 If you are a PHP developer and you use PHP Copy/Paste Detector.
 
